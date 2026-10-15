@@ -1,0 +1,7 @@
+﻿model_name,accuracy,macro_f1,model_type,parameters
+"MLP_hidden=(128,)_alpha=0.0001",0.9280868385345997,0.9290028764726166,MLPClassifier,"hidden_layer_sizes=(128,), alpha=0.0001"
+"MLP_hidden=(64,)_alpha=0.001",0.9274084124830394,0.9283083440074218,MLPClassifier,"hidden_layer_sizes=(64,), alpha=0.001"
+"MLP_hidden=(64,)_alpha=0.0001",0.926729986431479,0.9276715866386486,MLPClassifier,"hidden_layer_sizes=(64,), alpha=0.0001"
+LogisticRegression_C=10.0,0.9240162822252375,0.9243690310363814,LogisticRegression,C=10.0
+LogisticRegression_C=1.0,0.8941655359565808,0.8943316071719798,LogisticRegression,C=1.0
+LogisticRegression_C=0.1,0.5474898236092266,0.5727138681408259,LogisticRegression,C=0.1

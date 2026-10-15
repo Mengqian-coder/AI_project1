@@ -1,0 +1,2 @@
+﻿model_name,accuracy,macro_f1,model_type,parameters
+"MLP_hidden=(128,)_alpha=0.0001",0.9280868385345997,0.9290028764726166,MLPClassifier,"hidden_layer_sizes=(128,), alpha=0.0001"

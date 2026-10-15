@@ -1,0 +1,23 @@
+# Course data and derived text samples
+train_data.csv
+test_data_unlabeled.csv
+validation_errors.csv
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# Local configuration and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+.env.*
